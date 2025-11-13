@@ -38,8 +38,8 @@ My Resume WITH Markdown
 * **자료구조 및 알고리즘:**
     <img src="https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Algorithms-B4009E?style=for-the-badge"/>
-    * **Data Structures:** B+-Tree, Skip List, Linked List, Stack, Queue, Adjacency Matrix/List, Union-Find
-    * **Algorithms:** Quick/Merge/Heap Sort, Prim's/Kruskal's (MST), BFS/DFS, Huffman Coding
+    * **자료구조:** B+-Tree, Skip List, Linked List, Stack, Queue, Adjacency Matrix/List, Union-Find
+    * **알고리즘:** Quick/Merge/Heap Sort, Prim's/Kruskal's (MST), BFS/DFS, Huffman Coding
 
 * **핵심개념:**
     <img src="https://img.shields.io/badge/Performance_Benchmarking-D00000?style=for-the-badge"/>
